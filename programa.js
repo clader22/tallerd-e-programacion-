@@ -17,3 +17,4 @@ while(continuar){
 	continuar=confirm("el conteo va en: " +num+" desea continuar?") //confirm es el que nos da el paso siguiente segun haya sido la respuesta 
 	num++
 }
+var nombre2="valentina"
